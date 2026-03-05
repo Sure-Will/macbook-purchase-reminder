@@ -1,5 +1,8 @@
 # Mac 抢购倒计时提醒（Win11）
 
+> [!WARNING]
+> 已弃用：目标机型已抢购成功。该项目转为归档状态，不再维护。
+
 基于 Win11 PowerShell 的 MacBook Air M5 抢购时间段提醒脚本。
 
 ## 功能说明

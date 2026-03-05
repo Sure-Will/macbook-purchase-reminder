@@ -1,5 +1,8 @@
 # Mac Purchase Countdown Reminder (Win11)
 
+> [!WARNING]
+> Deprecated: target purchase is completed. This project is now archived and no longer maintained.
+
 Win11 PowerShell reminder for MacBook Air M5 purchase windows.
 
 ## What it does
