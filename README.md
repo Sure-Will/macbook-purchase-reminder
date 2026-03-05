@@ -1,4 +1,4 @@
-# Mac Purchase Countdown Reminder (Win11)
+# macbook-purchase-reminder (Win11)
 
 > [!WARNING]
 > Deprecated: target purchase is completed. This project is now archived and no longer maintained.
