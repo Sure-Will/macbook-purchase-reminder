@@ -1,0 +1,46 @@
+{
+  "eventDate": "2026-03-11",
+  "productName": "MacBook Air M5",
+  "timezone": "Asia/Shanghai",
+  "slotIntervalMinutes": 10,
+  "timeSlots": [
+    {
+      "name": "凌晨窗口",
+      "start": "00:00",
+      "end": "00:10"
+    },
+    {
+      "name": "上午窗口",
+      "start": "09:50",
+      "end": "10:20"
+    },
+    {
+      "name": "下午窗口",
+      "start": "14:00",
+      "end": "15:00"
+    },
+    {
+      "name": "晚间窗口",
+      "start": "20:00",
+      "end": "22:30"
+    }
+  ],
+  "skus": [
+    {
+      "id": "M5-32-512-SILVER",
+      "name": "MacBook Air M5",
+      "spec": "32GB+512GB",
+      "color": "银色",
+      "tag": "32+512 银色",
+      "url": "https://item.jd.com/100246087575.html?pcdk=XbktAQULeR9U9W4pB9wruJ7Wr-4QE-yyKIAko0vGexzdA1ic04ucDO8YWsr72Tlw.rQ4a.tlbT"
+    },
+    {
+      "id": "M5-24-512-SKYBLUE",
+      "name": "MacBook Air M5",
+      "spec": "24GB+512GB",
+      "color": "天蓝色",
+      "tag": "24+512 天蓝色",
+      "url": "https://item.jd.com/100328375914.html?pcdk=UqGiBFaADKjjCnPtxi0N8EzllRzBbKdmavWEM66scPy0Nq9TqJR0TmgPK7mtBE0H.rQ4a.tlbT"
+    }
+  ]
+}
